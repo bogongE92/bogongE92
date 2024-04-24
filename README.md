@@ -17,15 +17,15 @@
 </p>
 <p align='center'>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/svg-FFB13B?style=flat&logo=svg&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/svg-FFB13B?style=flat&logo=svg&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/> -->
 </p>
 <p align='center'>
   <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/adobexd-FF61F6?style=flat&logo=adobexd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/adobexd-FF61F6?style=flat&logo=adobexd&logoColor=white"/> -->
+  <!-- <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>
 </p>
 <div align='center'>
